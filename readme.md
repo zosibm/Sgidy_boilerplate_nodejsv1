@@ -54,7 +54,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project and install dependencies:
 
 ```bash
-git clone https://github.com/mkazemicent/Sgidy_boilerplate_nodejs.git
+git clone https://github.com/zosibm/Sgidy_boilerplate_nodejsv1.git
 cd sgidy_boilerplate_nodejs
 npm install
 Usage
